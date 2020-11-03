@@ -1,0 +1,547 @@
+*{
+	margin:0 auto;
+	padding:0;
+	font-family:arial;
+}
+
+header{
+	width:1280px;
+	height:450px;
+	background:url(../images/background/AsianAcademyHeader.jpg) no-repeat;
+	padding-top:50px;
+	
+}
+
+
+header nav{
+	/*width:1280px;*/
+	height:50px;
+	background-color:white;
+	padding-left:350px;
+}
+
+header nav ul{
+	list-style:none;
+	/*background-color:white;*/
+	/*padding-top:30px;
+	text-align:center;*/
+}
+
+header nav ul li{
+	display:inline;
+	/*text-decoration:none;*/
+	line-height:50px;
+	padding:0px 15px;
+	border-right:1px solid #000;
+	
+}
+
+
+header nav ul li:last_child{
+	border-right:none;
+}
+
+
+header nav ul li a{
+	text-decoration:none;
+	color:#000;
+	
+}
+
+
+
+header h1{
+	/*width:188px;
+	height:347px;*/
+	width:192px;
+	height:352px;
+	margin:0;
+	text-indent:-9999px;
+	background:url(../images/background/AsianAcademyLogo.png) no-repeat top left;
+	margin-left:160px;
+	margin-top:-100px;
+	/*margin-left:150px;
+	margin-top:-38px;*/
+}
+
+main #blue{
+	width:1280px;
+	height:186px;
+	background-color:#00105f;
+}
+
+
+main #blue #orange{
+	width:196px;
+	height:185px;
+	background:#f99310 url(../images/background/AsianAcademyArrow.jpg) no-repeat right;
+	background-size:30px 30px;
+	margin-left:160px;
+	border-top-left-radius:5px;
+	border-top-right-radius:5px;
+	
+}
+
+main #blue #orange h5{
+	font-family:arial;
+	font-size:19px;
+	color:white;
+	padding-left:10px;
+	padding-top:8px;
+	text-align:left;
+}
+
+
+main #blue #orange h6{
+	font-family:arial;
+	font-size:19px;
+	color:white;
+	padding-left:10px;
+}
+
+
+main #blue #orange h5{
+	font-family:arial;
+	font-size:19px;
+	color:white;
+	padding-left:10px;
+}
+
+
+main #blue #white{
+	width:745px;
+	height:190px;
+	/*display:inline-block;*/
+	float:left;
+	margin-left:400px;
+	margin-top:-185px;
+	background-color:white;
+	border-top-left-radius:5px;
+	border-top-right-radius:5px;
+}
+
+
+main #blue #white h5{
+	font-family:arial;
+	font-size:19px;
+	color:#000000;
+	text-align:left;
+	margin-left:28px;
+	margin-top:18px;
+}
+
+main #blue #white p{
+	font-family:arial;
+	font-size:13px;
+	color:#333333;
+	text-align:left;
+	line-height:21px;
+	margin-left:28px;
+	margin-top:-5px;
+}
+
+
+main #presidentM{
+	width:188px;
+	height:auto;
+	margin-left:160px;
+}
+
+
+main #presidentM #head1{
+	font-family:arial;
+	font-size:16px;
+	color:#000000;
+	text-align:left;
+	line-height:21px;
+	margin-top:34px;
+	margin-bottom:20px;
+}
+
+main #presidentM figure img{
+	margin-top:10px;
+}
+
+main #presidentM figure figcaption h6{
+	font-family:arial;
+	font-size:16px;
+	color:#000000;
+	text-align:left;
+	line-height:21px;
+	margin-top:10px;
+	
+}
+
+main #presidentM figure figcaption p{
+	font-family:arial;
+	font-size:13px;
+	color:#333333;
+	text-align:left;
+	line-height:21px;
+	
+}
+
+
+main #presidentM #main{
+	font-family:arial;
+	font-size:13px;
+	color:#333333;
+	text-align:left;
+	line-height:21px;
+	margin-top:20px;
+	margin-bottom:20px;
+	
+	
+}
+
+main #presidentM figure figcaption #para1{
+	font-family:arial;
+	font-size:13px;
+	color:#333333;
+	text-align:left;
+	line-height:21px;
+	margin-bottom:20px;
+	
+}
+
+main #presidentM figure figcaption hr{
+	margin-bottom:10px;
+}
+
+main #middle{
+	width:388px;
+	height:580px;
+	border:1px solid grey;
+	margin-top:-600px;
+	padding-top:20px;
+	padding-left:20px;
+	
+	
+}
+
+
+main #middle #box1{
+	width:114px;
+	height:40px;
+	float:left;
+	background:url(../images/background/AsianAcademyCollegesTabs.gif) no-repeat top left;
+		
+}
+
+
+main #middle #box1 h5{
+	font-family:arial;
+	font-size:14px;
+	color:white;
+	padding-top:10px;
+	padding-left:10px;
+	text-align:center;
+}
+
+
+
+main #middle #box2{
+	width:114px;
+	height:40px;
+	float:left;
+	background:url(../images/background/AsianAcademyCollegesTabs.gif) no-repeat bottom left;
+	margin-left:10px;
+	
+}
+
+
+
+main #middle #box2 h5{
+	font-family:arial;
+	font-size:14px;
+	color:white;
+	padding-top:10px;
+	padding-left:10px;
+	text-align:center;
+}
+
+main #middle #box3{
+	width:114px;
+	height:40px;
+	float:left;
+	background:url(../images/background/AsianAcademyCollegesTabs.gif) no-repeat bottom left;
+	margin-left:10px;
+
+	
+}
+
+
+main #middle #box3 h5{
+	font-family:arial;
+	font-size:14px;
+	color:white;
+	padding-top:5px;
+	padding-left:10px;
+	text-align:center;
+}
+
+
+main #middle h2{
+	font-family:arial;
+	font-size:16px;
+	color:#333333
+	padding-bottom:50px;
+	margin-bottom:10px;
+}
+
+
+main #middle h3{
+	font-family:arial;
+	font-size:14px;
+	color:#333333
+	text-align:left;
+	padding-top:38px;
+	margin-top:68px
+	padding-bottom:20px;
+	margin-bottom:20px;
+
+}
+
+
+main #middle img{
+	float:left;
+	padding-right:10px;
+}
+
+main #middle p{
+	font-family:arial;
+	font-size:13px;
+	line-height:21px;
+	padding-left:5px;
+	margin-left:5px;
+	margin-right:10px;
+	color:#333333
+}
+
+main #middle p span{
+	font-family:arial;
+	font-size:13px;
+	font-weight:bold;
+	color:#333333;
+}
+
+main #feature{
+
+	width:289px;
+	height:600px;
+	border:1px solid grey;
+	margin-left:930px;
+	margin-top:-606px;
+	padding:10px;
+
+}
+
+
+main #feature #background1{
+	width:271px;
+	height:34px;
+	background:url(../images/background/AsianAcademyFeatures.gif) no-repeat center;
+}
+
+
+
+main #feature #background1 h3{
+	font-family:arial;
+	font-size:16px;
+	/*font-weight:bold;*/
+	color:white;	
+	margin-left:10px;
+	padding-top:8px;
+	/*line-height:21px;*/
+	
+}
+
+
+main #feature #background2{
+	width:271px;
+	height:34px;
+	background:url(../images/background/AsianAcademyFeatures.gif) no-repeat center;
+}
+
+
+
+main #feature #background2 h3{
+	font-family:arial;
+	font-size:16px;
+	/*font-weight:bold;*/
+	color:white;
+	margin-left:10px;
+	padding-top:8px;
+	/*line-height:21px;*/
+	
+}
+
+
+main #feature #background3{
+	width:271px;
+	height:34px;
+	background:url(../images/background/AsianAcademyPlacementCell.gif) no-repeat center;
+}
+
+
+main #feature #background3 h3{
+	font-family:arial;
+	font-size:16px;
+	/*font-weight:bold;*/
+	color:#ffffff;	
+	margin-left:10px;
+	padding-top:8px;
+	/*line-height:21px;*/
+	
+}
+
+
+
+
+main #feature ul{
+	margin-left:20px;
+	margin-top:10px;
+}
+
+
+main #feature p{
+	font-family:arial;
+	font-size:13px;
+	font-weight:bold;
+	color:#333333;
+	line-height:21px;
+	margin-top:20px;
+	margin-left:10px;
+}
+
+
+main #feature ul li{
+	font-family:arial;
+	font-size:13px;
+	/*font-weight:bold;*/
+	color:#333333;	
+	line-height:21px;
+	list-style-image:url(../images/background/left_arrow.png);
+}
+
+
+footer{
+	width:960px;
+	height:auto;
+}
+footer #grey{
+
+	width:960px;
+	height:337px;
+	background-color:#ebebeb;
+	margin-top:20px;
+}
+
+footer #grey #call{
+	width:238px;
+	height:auto;
+	float:left;
+}
+
+footer #grey #call h3{
+	
+	font-family:arial;
+	font-size:17.13px;
+	color:#000000;
+	padding-left:10px;
+	padding-top:23px;
+}
+
+footer #grey #call h4{
+	font-family:arial;
+	font-size:14px;
+	color:#cb1e40;
+	padding-left:80px;
+	padding-top:18px;
+}
+
+footer #grey #call p{
+	font-family:arial;
+	font-size:18px;
+	color:#cb1e40;
+	line-height:21px;
+	padding-left:80px;
+	padding-bottom:20px;
+	
+}
+
+footer #grey #call hr{
+	width:170px;
+}
+
+
+footer #grey #map{
+	width:330px;
+	height:auto;
+	float:left;
+	
+}
+
+footer #grey #map h3{
+	font-family:arial;
+	font-size:17.13px;
+	color:#000000;
+	padding-left:10px;
+	padding-top:23px;
+	padding-bottom:20px;
+}
+
+footer #grey #map img{
+	
+}
+
+footer #grey #address{
+	width:385px;
+	height:auto;
+	float:left;
+
+}
+
+footer #grey #address h3{
+	font-family:arial;
+	font-size:17.13px;
+	color:#000000;
+	padding-top:23px;
+	padding-bottom:20px;
+}
+
+footer #grey #address h4{
+	font-family:arial;
+	font-size:13.5px;
+	color:#000000;
+	padding-bottom:7px;
+}
+
+footer #grey #address p{
+	font-family:arial;
+	font-size:13px;
+	color:#333333;
+	line-height:21px;
+	padding-bottom:20px;
+}
+
+footer #grey #address a{
+	
+	font-family:arial;
+	font-size:13px;
+	/*padding-bottom:50px;*/
+}
+
+footer #copyright{
+	font-size:13px;
+	margin-top:20px;
+	float:left;
+	margin-right:640px;
+	
+}
+
+footer #design{
+	font-size:13px;
+	margin-top:20px;
+	float:right;
+}
